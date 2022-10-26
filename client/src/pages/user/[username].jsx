@@ -9,7 +9,7 @@ function UserPage(user) {
 UserPage.getInitialProps = async (context) => {
     const { username } = context.query;
     
-    const res = await fetch(`https://api.tailedfoxes.com/user/${username}`);
+    const res = await fetch(`${process.env.API_HOST}/user/${username}`);
     const json = await res.json();
 
     return json;
