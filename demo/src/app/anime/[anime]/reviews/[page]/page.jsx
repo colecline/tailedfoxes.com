@@ -1,5 +1,5 @@
 export default function AnimeReviewsPagination() {
     return (
-        <>Not Implemented</>
+        <>Anime Page -- Reviews Page X -- Not Implemented</>
     )
 }

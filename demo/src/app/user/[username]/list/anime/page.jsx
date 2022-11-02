@@ -1,5 +1,5 @@
 export default function ProfileAnimeListPage() {
     return (
-        <>Not Implemented</>
+        <>Profile Page -- Anime List -- Not Implemented</>
     )
 }

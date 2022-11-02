@@ -1,5 +1,5 @@
 export default function SearchPage() {
     return (
-        <>Not Implemented</>
+        <>Search Page -- Not Implemented</>
     )
 }

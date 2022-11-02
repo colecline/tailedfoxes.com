@@ -1,5 +1,5 @@
 export default function MangaStatsPage() {
     return (
-        <>Not Implemented</>
+        <>Manga Page -- Stats -- Not Implemented</>
     )
 }

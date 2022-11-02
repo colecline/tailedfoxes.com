@@ -1,5 +1,5 @@
 export default function AnimeStaffPage() {
     return (
-        <>Not Implemented</>
+        <>Anime Page -- Staff -- Not Implemented</>
     )
 }

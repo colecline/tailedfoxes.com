@@ -1,5 +1,5 @@
 export default function MangaReviewsPage() {
     return (
-        <>Not Implemented</>
+        <>Manga Page -- Reviews -- Not Implemented</>
     )
 }

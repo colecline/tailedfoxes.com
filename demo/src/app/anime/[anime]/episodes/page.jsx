@@ -1,5 +1,5 @@
 export default function AnimeEpisodesPage() {
     return (
-        <>Not Implemented</>
+        <>Anime Page -- Episodes -- Not Implemented</>
     )
 }

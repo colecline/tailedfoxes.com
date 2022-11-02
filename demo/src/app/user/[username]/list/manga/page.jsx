@@ -1,5 +1,5 @@
 export default function ProfileMangaListPage() {
     return (
-        <>Not Implemented</>
+        <>Profile Page -- Manga List -- Not Implemented</>
     )
 }

@@ -1,5 +1,5 @@
 export default function ExplorePage() {
     return (
-        <>Not Implemented</>
+        <>Explore Page -- Not Implemented</>
     )
 }

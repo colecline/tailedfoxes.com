@@ -1,5 +1,5 @@
 export default function PrivacyPage() {
     return (
-        <>Not Implemented</>
+        <>Privacy Policy Page -- Not Implemented</>
     )
 }

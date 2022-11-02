@@ -1,5 +1,5 @@
 export default function ProfileMediaPage() {
     return (
-        <>Not Implemented</>
+        <>Profile Page -- Media -- Not Implemented</>
     )
 }

@@ -1,5 +1,5 @@
 export default function AnimeChartAiringPage() {
     return (
-        <>Not Implemented</>
+        <>Anime Charts -- Most Popular Airing -- Not Implemented</>
     )
 }

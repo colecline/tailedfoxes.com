@@ -1,5 +1,5 @@
 export default function AnimeChartTopTVPagination() {
     return (
-        <>Not Implemented</>
+        <>Anime Charts -- Top TV Anime Page X -- Not Implemented</>
     )
 }

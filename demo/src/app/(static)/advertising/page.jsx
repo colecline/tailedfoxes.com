@@ -1,5 +1,5 @@
 export default function AdvertisingPage() {
     return (
-        <>Not Implemented</>
+        <>Advertising -- Not Implemented</>
     )
 }

@@ -1,5 +1,5 @@
 export default function FaqPage() {
     return (
-        <>Not Implemented</>
+        <>FAQ Page -- Not Implemented</>
     )
 }

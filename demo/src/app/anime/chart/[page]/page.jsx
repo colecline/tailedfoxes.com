@@ -1,5 +1,5 @@
 export default function AnimeChartPagination() {
     return (
-        <>Not Implemented</>
+        <>Anime Charts -- Most Popular Page X -- Not Implemented</>
     )
 }

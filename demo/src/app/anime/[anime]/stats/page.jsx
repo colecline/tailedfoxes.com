@@ -1,5 +1,5 @@
 export default function AnimeStatsPage() {
     return (
-        <>Not Implemented</>
+        <>Anime Page -- Stats -- Not Implemented</>
     )
 }

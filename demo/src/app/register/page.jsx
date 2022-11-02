@@ -1,5 +1,5 @@
 export default function RegisterPage() {
     return (
-        <>Not Implemented</>
+        <>Register Page -- Not Implemented</>
     )
 }

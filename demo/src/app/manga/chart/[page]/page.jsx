@@ -1,5 +1,5 @@
 export default function MangaChartPagination() {
     return (
-        <>Not Implemented</>
+        <>Manga Charts -- Most Popular Page X -- Not Implemented</>
     )
 }

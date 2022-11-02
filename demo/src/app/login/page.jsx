@@ -1,5 +1,5 @@
 export default function LoginPage() {
     return (
-        <>Not Implemented</>
+        <>Login Page -- Not Implemented</>
     )
 }

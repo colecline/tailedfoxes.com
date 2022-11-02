@@ -1,5 +1,5 @@
 export default function MangaChartTopPage() {
     return (
-        <>Not Implemented</>
+        <>Manga Charts -- Top Manga -- Not Implemented</>
     )
 }

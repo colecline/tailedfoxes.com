@@ -1,5 +1,5 @@
 export default function AnimeHomepage() {
     return (
-        <>Not Implemented</>
+        <>Anime Homepage -- Not Implemented</>
     )
 }

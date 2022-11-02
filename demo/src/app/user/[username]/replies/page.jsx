@@ -1,5 +1,5 @@
 export default function ProfileRepliesPage() {
     return (
-        <>Not Implemented</>
+        <>Profile Page -- Posts and Replies -- Not Implemented</>
     )
 }

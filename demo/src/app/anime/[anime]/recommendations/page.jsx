@@ -1,5 +1,5 @@
 export default function AnimeRecommendationsPage() {
     return (
-        <>Not Implemented</>
+        <>Anime Page -- Recommendations -- Not Implemented</>
     )
 }

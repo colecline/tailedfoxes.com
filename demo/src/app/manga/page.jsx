@@ -1,5 +1,5 @@
 export default function MangaHomepage() {
     return (
-        <>Not Implemented</>
+        <>Manga Homepage -- Not Implemented</>
     )
 }

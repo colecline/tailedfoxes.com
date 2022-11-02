@@ -1,5 +1,5 @@
 export default function AnimeCharactersPage() {
     return (
-        <>Not Implemented</>
+        <>Anime Page -- Characters -- Not Implemented</>
     )
 }

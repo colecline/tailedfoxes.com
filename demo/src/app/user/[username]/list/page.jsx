@@ -1,5 +1,5 @@
 export default function ProfileListPage() {
     return (
-        <>Not Implemented</>
+        <>Profile Page -- List -- Not Implemented</>
     )
 }

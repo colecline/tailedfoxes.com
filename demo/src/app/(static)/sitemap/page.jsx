@@ -1,5 +1,5 @@
 export default function SitemapPage() {
     return (
-        <>Not Implemented</>
+        <>Sitemap Page -- Not Implemented</>
     )
 }

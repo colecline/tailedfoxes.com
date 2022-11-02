@@ -1,5 +1,5 @@
 export default function AnimeChartPage() {
     return (
-        <>Not Implemented</>
+        <>Anime Charts -- Most Popular -- Not Implemented</>
     )
 }

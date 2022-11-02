@@ -1,5 +1,5 @@
 export default function AnimeChartTopMoviesPage() {
     return (
-        <>Not Implemented</>
+        <>Anime Charts -- Top Movies Anime -- Not Implemented</>
     )
 }

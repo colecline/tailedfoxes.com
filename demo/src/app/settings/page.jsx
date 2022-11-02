@@ -1,5 +1,5 @@
 export default function SettingsPage() {
     return (
-        <>Not Implemented</>
+        <>Settings Page -- Not Implemented</>
     )
 }

@@ -1,5 +1,5 @@
 export default function ProfileLikesPage() {
     return (
-        <>Not Implemented</>
+        <>Profile Page -- Likes -- Not Implemented</>
     )
 }
